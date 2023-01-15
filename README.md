@@ -25,7 +25,7 @@ Cypress Fixture
 **Installing**
 Clone the repository
 
-git clone https://github.com/yourusername/contact-us-form-test.git
+git clone https://github.com/qadeval/T-L_proj_assignment
 
 **Install the dependencies
 **
