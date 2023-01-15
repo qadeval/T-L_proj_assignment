@@ -25,7 +25,7 @@ Cypress Fixture
 **Installing**
 Clone the repository
 
-git clone. https://github.com/qadeval/T-L_proj_assignment/edit/master/
+git clone. https://github.com/qadeval/T-L_proj_assignment/edit/master
 
 **Install the dependencies
 **
